@@ -1,0 +1,54 @@
+@media (max-width: 600px){
+	body{
+		margin-left: 20%;
+	}
+	.menu{
+		display: none;
+	}
+	.uno .boton{
+		display: none;
+	}
+	.uno .burger{
+		display: block;
+	}
+	.uno{
+	/*	margin: 0 20px;*/
+		margin: 60px 0 0 0;
+	}
+	.cuatro .BG{
+		width: 100%;
+		margin: 0;
+	}
+
+	.tres .text1{
+		font-size: 36px;
+		line-height: 150%;
+	}
+
+	.dos .img1{
+		display: none;
+	}
+	.dos .img1m{
+		display: block;
+	}
+
+	.cinco .tit1{
+		margin-left: -23%;
+		font-size: 52px;
+	}
+
+	.ocho .contimgs{
+		display: none;
+	}
+	.ocho .services{
+		display:block;
+	}
+	.ocho .imgservice{
+		width: 100%;
+	}
+
+	.contenedor9 h1{
+		font-size: 47px;
+		margin: 100px 0 0 0px;
+	}
+}
