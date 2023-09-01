@@ -5,12 +5,12 @@
     font-weight: 900;
     font-style: normal;
 }
-
+li{
+	list-style:none;
+}
 body{
 	background-color: #19191B;
 	font-family: 'Nunito Sans', sans-serif;
-	margin-left: 39px;
-	width: 94%;
 	background-image: url('../img/bg1.png');
 	background-repeat: no-repeat;
 }
@@ -22,10 +22,10 @@ body{
 }
 
 .uno{
-	margin: 0 0 0 70px;
+	/* margin: 0 0 0 70px; */
 }
 .uno .burger{
-	display: none;
+	/* display: none; */
 }
 
 .row .imglogo{
@@ -79,8 +79,7 @@ body{
 	font-family: 'Graphik';
 }
 .dos .img1{
-	width: 111%;
-	height: 100%;
+	width: 100%;
 }
 .dos .img1m{
 	display: none;
@@ -133,13 +132,13 @@ body{
 }
 .cuatro .BG{
 	/*height: 95%;*/
-	width: 86%;
-	margin-left: 80px;
+	/* width: 86%; */
+	/* margin-left: 80px; */
 }
 
 .cinco{
 	margin-top: 10%;
-	margin-left: 50px;
+	/* margin-left: 50px; */
 	position: relative;
 }
 .cinco .fig1{
@@ -153,7 +152,7 @@ body{
 	top: 20px;
 }
 .cinco .tit1{
-	margin-left: 8%;
+	/* margin-left: 8%; */
 	font-weight: 900;
 	font-size: 60px;
 	line-height: 70px;
